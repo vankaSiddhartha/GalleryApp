@@ -37,6 +37,7 @@ class MainActivity : AppCompatActivity() {
                     list.add(videoList[j])
                 }else{
                    // list.add(imageList[j])
+                    // Jai Sri Ram
                 }
             }
         }
